@@ -80,7 +80,7 @@ Used interactive UMAP plots, pie charts, and bar charts
 
 Named and described each cluster for actionable insights
 
-##🔍 Cluster Descriptions
+## 🔍 Cluster Descriptions
 Cluster	Name	Description
 0	Regular Cash Users	Heavy use of cash advances and balance
 1	On-Time Payers	Low balance, high one-off purchases, financially disciplined
@@ -89,7 +89,7 @@ Cluster	Name	Description
 4	New Cash Drawers	Moderate to high purchases + cash usage
 5	Big Spenders	Highest spenders with frequent transactions
 
-##💡 Business Insights
+## 💡 Business Insights
 
 🎯 Personalized Marketing: Targeted offers like cashback, premium cards, or EMI programs.
 
