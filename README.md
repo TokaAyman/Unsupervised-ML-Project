@@ -2,7 +2,7 @@
 # 🧠 Customer Segmentation Analysis: A Data-Driven Marketing Approach
 This project aims to perform customer segmentation using unsupervised machine learning techniques. It presents a complete pipeline from raw financial data to meaningful, business-driven customer profiles. By leveraging dimensionality reduction and clustering algorithms, the analysis enables financial institutions to understand better and serve distinct customer groups.
 
-📌 Table of Contents
+## 📌 Table of Contents
 Overview
 
 Technologies Used
@@ -21,7 +21,7 @@ References
 
 Author
 
-📊 Overview
+## 📊 Overview
 Customer segmentation helps businesses tailor their marketing strategies based on behavioral patterns. In this project, we:
 
 Preprocessed and cleaned the dataset
@@ -45,7 +45,7 @@ Plotly (for interactive visualization)
 
 Jupyter Notebook
 
-🔁 Project Pipeline
+## 🔁 Project Pipeline
 Data Cleaning
 
 Removed irrelevant features
@@ -80,7 +80,7 @@ Used interactive UMAP plots, pie charts, and bar charts
 
 Named and described each cluster for actionable insights
 
-🔍 Cluster Descriptions
+##🔍 Cluster Descriptions
 Cluster	Name	Description
 0	Regular Cash Users	Heavy use of cash advances and balance
 1	On-Time Payers	Low balance, high one-off purchases, financially disciplined
@@ -89,7 +89,8 @@ Cluster	Name	Description
 4	New Cash Drawers	Moderate to high purchases + cash usage
 5	Big Spenders	Highest spenders with frequent transactions
 
-💡 Business Insights
+##💡 Business Insights
+
 🎯 Personalized Marketing: Targeted offers like cashback, premium cards, or EMI programs.
 
 📉 Churn Reduction: Engage low-activity segments with education or loyalty rewards.
